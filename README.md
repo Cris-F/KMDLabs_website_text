@@ -58,12 +58,12 @@ Contact us and join the future.
 =============
 
 =============
+
 FAQ  -  *NOTE: An much updated version is being worked on by @Alright as of 2019-6-1
+
 =============
 
 TL;dr
-
-
 
 KMDLABS is a R&D test ground for Komodo (KMD) technology and Crypto-Conditions contracts (Smart Contracts). You are able to join incentivized tests that are underway or do your own work on the main KMDLabs fungible cluster. Your own chains and clusters can be added for more customized or private development. These chains can be notarized to the Bitcoin blockchain through the main Komodo(KMD) chain using Komodo’s Delayed Proof of Work (dPoW).
 
@@ -231,7 +231,9 @@ For more in-depth details on KMDLabs please visit the Technical page.
 =============
 
 =============
+
 CONTACT
+
 =============
 
 
@@ -278,7 +280,9 @@ https://docs.komodoplatform.com/komodo/example-asset-chains.html
 =============
 
 =============
+
 WHO
+
 =============
 
 Who
@@ -334,7 +338,9 @@ Please come and visit. You will find a wide variety of people doing their part t
 =============
 
 =============
+
 WORKS
+
 =============
 
 Works
@@ -403,7 +409,9 @@ Please see the Bug Report page for a list of previous reports and to file your o
 =============
 
 =============
+
 Privacy
+
 =============
 
 <ADD PRIVACY POLICY IF NEEDED>
@@ -411,7 +419,9 @@ Privacy
 =============
 
 =============
+
 Main Cluster
+
 =============
 
 Main Cluster
@@ -488,7 +498,9 @@ Obtaining KMDLabs(LABS)
 =============
 
 =============
+
 HOW KMDLABS WORKS
+
 =============
 
 How KMDLabs Works
@@ -565,7 +577,9 @@ https://i1.wp.com/kmdlabs.com/wp-content/uploads/2019/03/KMDLabs_proposal_diagra
 =============
 
 =============
+
 NOTARY  NODE
+
 =============
 
 Notary Nodes
@@ -656,14 +670,19 @@ For detailed setup instructions please visit the KMDLabs Github repo.
 =============
 
 =============
+
 STATISTICS *Note: Under development
+
 =============
 
 http://oracle.earth/ntx_graph/
+
 =============
 
 =============
+
 BUG REPORTS
+
 =============
 
 General guidance on reporting issues
@@ -771,7 +790,9 @@ Due to copying STAKED1.conf to STAKED2.conf komodod ran STAKED2 with the same RP
 =============
 
 =============
+
 GETTING STARTED
+
 =============
 
 Getting Started
@@ -813,7 +834,9 @@ If you have any questions or have suggestions please contact us on Discord.
 =============
 
 =============
+
 TECHNICAL
+
 =============
 
 Technical
@@ -959,7 +982,9 @@ I have added a new feature for notarypay chains that do not have their own coin 
 =============
 
 =============
+
 MINING & STAKING
+
 =============
 
 Mining & Staking
@@ -998,7 +1023,9 @@ http://mininglabs.rocks/
 =============
 
 =============
+
 Bounties
+
 =============
 
 Bounties
@@ -1030,7 +1057,9 @@ As it stands pre-launch, the basic mechanism looks like this:
 =============
 
 =============
+
 TESTIMONIALS
+
 =============
 
 "I am really pleased to call KMDLabs a Komodo ecosystem project. Their remarkable dedication in the Blockchain Research & Development area has lead to significant tech optimizations in the Komodo core and Notary Node network."
