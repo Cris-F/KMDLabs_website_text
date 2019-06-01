@@ -3,7 +3,7 @@ KMDLabs Website Text  --  2019.6.1
 
 =============
 
-HOME
+### HOME
 
 =============
 
@@ -59,7 +59,7 @@ Contact us and join the future.
 
 =============
 
-FAQ  -  *NOTE: An much updated version is being worked on by @Alright as of 2019-6-1
+### FAQ  -  *NOTE: An much updated version is being worked on by @Alright as of 2019-6-1
 
 =============
 
@@ -232,7 +232,7 @@ For more in-depth details on KMDLabs please visit the Technical page.
 
 =============
 
-CONTACT
+### CONTACT
 
 =============
 
@@ -281,7 +281,7 @@ https://docs.komodoplatform.com/komodo/example-asset-chains.html
 
 =============
 
-WHO
+### WHO
 
 =============
 
@@ -339,7 +339,7 @@ Please come and visit. You will find a wide variety of people doing their part t
 
 =============
 
-WORKS
+### WORKS
 
 =============
 
@@ -410,7 +410,7 @@ Please see the Bug Report page for a list of previous reports and to file your o
 
 =============
 
-Privacy
+### Privacy
 
 =============
 
@@ -420,7 +420,7 @@ Privacy
 
 =============
 
-Main Cluster
+### Main Cluster
 
 =============
 
@@ -499,7 +499,7 @@ Obtaining KMDLabs(LABS)
 
 =============
 
-HOW KMDLABS WORKS
+### HOW KMDLABS WORKS
 
 =============
 
@@ -572,13 +572,11 @@ Bounty is paid 🙂 repeat steps 8-11.
 
 <IMAGE NEEDS UPDATING WITH THE LATEST CHANGED>
 
-https://i1.wp.com/kmdlabs.com/wp-content/uploads/2019/03/KMDLabs_proposal_diagram_V2.0.png?w=885&ssl=1
-
 =============
 
 =============
 
-NOTARY  NODE
+### NOTARY  NODE
 
 =============
 
@@ -671,7 +669,7 @@ For detailed setup instructions please visit the KMDLabs Github repo.
 
 =============
 
-STATISTICS *Note: Under development
+### STATISTICS *Note: Under development
 
 =============
 
@@ -681,7 +679,7 @@ http://oracle.earth/ntx_graph/
 
 =============
 
-BUG REPORTS
+### BUG REPORTS
 
 =============
 
@@ -791,7 +789,7 @@ Due to copying STAKED1.conf to STAKED2.conf komodod ran STAKED2 with the same RP
 
 =============
 
-GETTING STARTED
+### GETTING STARTED
 
 =============
 
@@ -835,7 +833,7 @@ If you have any questions or have suggestions please contact us on Discord.
 
 =============
 
-TECHNICAL
+### TECHNICAL
 
 =============
 
@@ -983,7 +981,7 @@ I have added a new feature for notarypay chains that do not have their own coin 
 
 =============
 
-MINING & STAKING
+### MINING & STAKING
 
 =============
 
@@ -1024,7 +1022,7 @@ http://mininglabs.rocks/
 
 =============
 
-Bounties
+### Bounties
 
 =============
 
@@ -1058,7 +1056,7 @@ As it stands pre-launch, the basic mechanism looks like this:
 
 =============
 
-TESTIMONIALS
+### TESTIMONIALS
 
 =============
 
