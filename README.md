@@ -414,7 +414,7 @@ Please see the Bug Report page for a list of previous reports and to file your o
 
 =============
 
-<ADD PRIVACY POLICY IF NEEDED>
+ADD PRIVACY POLICY IF NEEDED
 
 =============
 
